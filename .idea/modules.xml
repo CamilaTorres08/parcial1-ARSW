@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/parcial.iml" filepath="$PROJECT_DIR$/.idea/parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcial/parcial.iml" filepath="$PROJECT_DIR$/parcial/parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parcial1-ARSW.iml" filepath="$PROJECT_DIR$/.idea/parcial1-ARSW.iml" />
     </modules>
   </component>
 </project>
